@@ -1,6 +1,6 @@
 This is the code for a meetup talk I gave where I demonstrated using an Arduino, a temperature sensor, and a relay (attached to a desk lamp as a heater), to control temperature.  The temperature is also stored in a graphite database and graphed with grafana.
 
-You may well be wondering why there's a picture of some eggs in the architecture diagram. For the demo, I demonstrated how this could be used to accurately control temperature for incubating condor eggs (inspiration from [Pied Piper's](http://www.piedpiper.com/) first successful web streaming).
+You may well be wondering why there's a picture of some eggs in the architecture diagram. For the talk, I demonstrated how this could be used to accurately control temperature for incubating condor eggs (inspiration from [Pied Piper's](http://www.piedpiper.com/) first successful web streaming).
 
 
 ## Files
