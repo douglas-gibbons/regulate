@@ -7,7 +7,7 @@ You may well be wondering why there's a picture of some eggs in the architecture
 
 * docker-compose.yml - [docker compose file](https://docs.docker.com/compose/) for bringing up the stack
 * .env - Environment variables for docker compose
-* regulate/ Directory to create container for "regulate" python code
+* regulate - Directory for "regulate" container which runs python code to monitor the temperature and send control requests to turn the lamp on and off
 * sketch/controller/controller.ino - Arduino code
 
 
@@ -62,4 +62,4 @@ The Arduino code uses the WiFI101 library and the MQTT library by Joel Gaehiler.
 
 --------------------------
 
-If you have any problems, please feel free to [create an issue](https://github.com/douglas-gibbons/regulate/issues).
+If you have any problems, please feel free to [create an issue](https://github.com/douglas-gibbons/regulate/issues).  Please do [let me know](https://trafero.io/contact.html) if you found any of this useful!
